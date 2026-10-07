@@ -4,11 +4,11 @@ A complete **end-to-end Manual QA Testing project** for the BStackDemo e-commerc
 
 This project demonstrates the complete Software Testing Life Cycle (STLC), from requirement analysis and test planning to test execution, defect reporting, regression testing, requirement traceability, and final test reporting.
 
-> **Portfolio Disclaimer:** Test execution results, defects, blockers, and regression outcomes in this repository are **simulated portfolio data** created to demonstrate practical QA documentation and testing skills. They should not be interpreted as official defects or an official QA report for BStackDemo.
+
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 | Item                  | Details                                         |
 | --------------------- | ----------------------------------------------- |
@@ -31,7 +31,7 @@ This project demonstrates the complete Software Testing Life Cycle (STLC), from 
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The objective of this project is to demonstrate practical manual QA skills by testing the major user-facing workflows of an e-commerce application.
 
@@ -54,7 +54,7 @@ The project focuses on:
 
 ---
 
-# 🧪 Testing Scope
+#  Testing Scope
 
 ## Functional Testing
 
@@ -85,7 +85,7 @@ Basic coverage was included for:
 
 ---
 
-# 🚫 Out of Scope
+#  Out of Scope
 
 This project intentionally focuses on **Manual QA Testing**.
 
@@ -109,7 +109,7 @@ These areas can be added as separate projects or future extensions.
 
 ---
 
-# 📊 Project Metrics
+#  Project Metrics
 
 ## Requirements
 
@@ -168,15 +168,15 @@ These areas can be added as separate projects or future extensions.
 
 ---
 
-# ▶️ Test Execution Results
+#  Test Execution Results
 
 A simulated execution cycle was performed across all 128 test cases.
 
 | Result    |   Count |
 | --------- | ------: |
-| ✅ PASS    |     115 |
-| ❌ FAIL    |      10 |
-| ⛔ BLOCKED |       3 |
+| PASS    |     115 |
+| FAIL    |      10 |
+| BLOCKED |       3 |
 | **Total** | **128** |
 
 ### Pass Rate
@@ -207,7 +207,7 @@ Blocked Rate = 3 / 128 × 100
 
 ---
 
-# 🐞 Defect Summary
+#  Defect Summary
 
 A total of **10 simulated defects** were identified during the initial execution cycle.
 
@@ -245,7 +245,7 @@ A total of **10 simulated defects** were identified during the initial execution
 
 ---
 
-# ⛔ Blockers
+#  Blockers
 
 Three simulated blockers were recorded during the initial execution.
 
@@ -267,9 +267,9 @@ After the simulated defect-fix cycle, a focused regression suite was executed.
 
 | Result    |  Count |
 | --------- | -----: |
-| ✅ PASS    |     30 |
-| ❌ FAIL    |      0 |
-| ⛔ BLOCKED |      0 |
+|  PASS    |     30 |
+|  FAIL    |      0 |
+|  BLOCKED |      0 |
 | **Total** | **30** |
 
 ### Regression Pass Rate
@@ -280,7 +280,7 @@ After the simulated defect-fix cycle, a focused regression suite was executed.
 
 ### Regression Status
 
-> **✅ REGRESSION PASSED**
+> ** REGRESSION PASSED**
 
 The regression suite focused on high-risk and previously affected areas including:
 
@@ -296,7 +296,7 @@ The regression suite focused on high-risk and previously affected areas includin
 
 ---
 
-# 📋 QA Lifecycle
+#  QA Lifecycle
 
 The project follows a complete manual QA workflow:
 
@@ -330,7 +330,7 @@ Release Recommendation
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 BStackDemo-Manual-QA/
@@ -373,7 +373,7 @@ BStackDemo-Manual-QA/
 
 ---
 
-# 📄 Deliverables
+#  Deliverables
 
 ## 01 — Requirements
 
@@ -525,7 +525,7 @@ Contains the final QA assessment including:
 
 ---
 
-# 🧩 Testing Techniques Used
+#  Testing Techniques Used
 
 The project demonstrates several practical manual testing techniques.
 
@@ -563,7 +563,7 @@ Testers consider unexpected user behavior and potential failure points beyond sc
 
 ---
 
-# 🏷️ Severity vs Priority
+#  Severity vs Priority
 
 This project distinguishes between **severity** and **priority**.
 
@@ -594,7 +594,7 @@ Example:
 
 ---
 
-# 🚦 Release Assessment
+#  Release Assessment
 
 ## Initial Execution
 
@@ -608,7 +608,7 @@ The initial simulated execution resulted in:
 
 Because critical/major issues were identified, the initial release assessment was:
 
-> **🔴 HOLD**
+> ** HOLD**
 
 ---
 
@@ -624,13 +624,13 @@ The simulated regression cycle resulted in:
 
 Regression status:
 
-> **🟢 PASS**
+> ** PASS**
 
 ---
 
 ## Final Simulated Recommendation
 
-> **🟡 CONDITIONALLY READY FOR RELEASE**
+> ** CONDITIONALLY READY FOR RELEASE**
 
 This recommendation assumes that:
 
@@ -644,7 +644,7 @@ This is **not an actual production release approval**.
 
 ---
 
-# ⚠️ Portfolio Disclaimer
+#  Portfolio Disclaimer
 
 This project is a personal QA portfolio project created to demonstrate practical knowledge of:
 
@@ -675,7 +675,7 @@ These results should **not** be represented as actual production testing perform
 
 ---
 
-# 👨‍💻 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical QA skills including:
 
@@ -701,7 +701,7 @@ Test Reporting
 
 ---
 
-# ⭐ Project Highlights
+#  Project Highlights
 
 ### 17 Requirements
 
@@ -733,7 +733,7 @@ The repository demonstrates the complete manual QA lifecycle from requirements t
 
 ---
 
-# 📌 Final Project Status
+#  Final Project Status
 
 ```text
 Project Type       : Manual QA Testing
@@ -762,5 +762,3 @@ It shows how a QA tester can move from:
 **Requirements → Planning → Scenarios → Test Cases → Execution → Defects → RTM → Regression → Test Summary → Release Recommendation**
 
 while maintaining traceability and structured documentation throughout the testing lifecycle.
-#   B S t a c k D e m o - M a n u a l - Q A  
- 
